@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="407f1428-2d4a-475d-a110-31511bfb31b0" name="Default Changelist" comment="" />
+    <list default="true" id="407f1428-2d4a-475d-a110-31511bfb31b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/ngx_open_file_cache.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/ngx_open_file_cache.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,10 @@
       <option name="presentableId" value="Default" />
       <updated>1604994772622</updated>
       <workItem from="1604994774054" duration="3145000" />
+      <workItem from="1605075571978" duration="1291000" />
+      <workItem from="1605154231635" duration="334000" />
+      <workItem from="1605231020508" duration="551000" />
+      <workItem from="1605866179428" duration="21000" />
     </task>
     <servers />
   </component>
