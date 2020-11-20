@@ -58,7 +58,6 @@ ngx_open_file_cache_init(ngx_pool_t *pool, ngx_uint_t max, time_t inactive)
 {
     ngx_pool_cleanup_t     *cln;
     ngx_open_file_cache_t  *cache;
-    ngx_open_file_cache_t  *cache1;
 
     cache = ngx_palloc(pool, sizeof(ngx_open_file_cache_t));
     if (cache == NULL) {
