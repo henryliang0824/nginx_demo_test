@@ -61,7 +61,7 @@ ngx_open_file_cache_init(ngx_pool_t *pool, ngx_uint_t max, time_t inactive)
 
     cache = ngx_palloc(pool, sizeof(ngx_open_file_cache_t));
     if (cache == NULL) {
-        return NULL;
+        return NULL1;
     }
 
     ngx_rbtree_init(&cache->rbtree, &cache->sentinel,
